@@ -1,6 +1,6 @@
 # iron-canon-Calvinism
 # 鐵律加爾文 | Iron Canon Calvinism
-
+DOI 10.5281/zenodo.19705513. 
 ---
 
 ## 使用方式 | How to Use
